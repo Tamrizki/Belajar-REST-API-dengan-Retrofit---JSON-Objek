@@ -3,7 +3,6 @@ Belajar REST API dengan menggunakan Retrofit pada JSON Objek
 <h1>Belajar REST API</h1>
 <br>
 <hr>
-<br>
 <pre>
 Referensi API bisa diakses pada <a href="https://farizdotid.com/blog/dokumentasi-api-purwakarta/?fbclid=IwAR0OPxAOi5mZXeLYUSSCDCvXXWm0kmPYk4VJBB3TmlJcMDhVzB5qfuvbRfE">LINK</a>
 <br>
